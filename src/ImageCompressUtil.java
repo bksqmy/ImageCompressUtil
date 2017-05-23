@@ -143,8 +143,8 @@ public class ImageCompressUtil {
     }
 
     public static void main(String args[]) throws Exception {
-        ImageCompressUtil.zipImageFile("f:/食尸鬼 - 藿香.jpg", 1280, 1280, 1f, "x2");
-        ImageCompressUtil.saveMinPhoto("f:/食尸鬼 - 藿香.jpg", "f:/11.jpg", 139, 0.9d);
+        ImageCompressUtil.zipImageFile("", 1280, 1280, 1f, "x2");
+        ImageCompressUtil.saveMinPhoto("", "", 139, 0.9d);
     }
 }
 
